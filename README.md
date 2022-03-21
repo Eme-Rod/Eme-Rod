@@ -20,7 +20,7 @@ I am a Computer Engineering Student from Uruguay.
 
 - :brain: Currently learning Web Development.
 
-- :gb: And also improving my English skills.
+- :gb: And improving my English skills.
 
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
 <div>
