@@ -16,7 +16,7 @@
 
 I am a Computer Engineering Student from Uruguay.
 
-- :brain: Currently learning Web Development.
+- :brain: Currently learning ML.
 
 - :gb: And improving my English skills.
 
